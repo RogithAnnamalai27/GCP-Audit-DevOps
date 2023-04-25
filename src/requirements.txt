@@ -1,0 +1,8 @@
+google-api-python-client
+google-cloud-iam
+google-auth-oauthlib
+google-cloud-logging
+
+xlsxwriter
+pandas
+pathlib
