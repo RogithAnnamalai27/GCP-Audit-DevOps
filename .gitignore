@@ -1,0 +1,9 @@
+# Folders used for testing the scripts locally
+artifacts/
+testing/
+
+# Python cache folder
+_pycache_/
+
+# Excel files
+*.xlsx
