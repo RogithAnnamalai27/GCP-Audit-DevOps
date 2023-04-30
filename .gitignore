@@ -3,7 +3,7 @@ artifacts/
 testing/
 
 # Python cache folder
-_pycache_/
+src/utils/_pycache_/
 
 # Excel files
 *.xlsx
